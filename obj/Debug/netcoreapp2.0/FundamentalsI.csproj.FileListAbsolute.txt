@@ -1,0 +1,10 @@
+/Users/nramiscal/Desktop/FundamentalsI/bin/Debug/netcoreapp2.0/FundamentalsI.deps.json
+/Users/nramiscal/Desktop/FundamentalsI/bin/Debug/netcoreapp2.0/FundamentalsI.runtimeconfig.json
+/Users/nramiscal/Desktop/FundamentalsI/bin/Debug/netcoreapp2.0/FundamentalsI.runtimeconfig.dev.json
+/Users/nramiscal/Desktop/FundamentalsI/bin/Debug/netcoreapp2.0/FundamentalsI.dll
+/Users/nramiscal/Desktop/FundamentalsI/bin/Debug/netcoreapp2.0/FundamentalsI.pdb
+/Users/nramiscal/Desktop/FundamentalsI/obj/Debug/netcoreapp2.0/FundamentalsI.csproj.CoreCompileInputs.cache
+/Users/nramiscal/Desktop/FundamentalsI/obj/Debug/netcoreapp2.0/FundamentalsI.AssemblyInfoInputs.cache
+/Users/nramiscal/Desktop/FundamentalsI/obj/Debug/netcoreapp2.0/FundamentalsI.AssemblyInfo.cs
+/Users/nramiscal/Desktop/FundamentalsI/obj/Debug/netcoreapp2.0/FundamentalsI.dll
+/Users/nramiscal/Desktop/FundamentalsI/obj/Debug/netcoreapp2.0/FundamentalsI.pdb
